@@ -58,6 +58,6 @@
 
 ###
 
-<p align="left">Hi everyone, my name is Giulia and I'm a junior full-stack web developer!</p>
+
 
 ###
