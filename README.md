@@ -37,8 +37,8 @@
   <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" 
   alt="php_logo"  /></a>
   <img width="12" />
-  <a href="https://laravel.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px- 
-  Laravel.svg.png" height="30" alt="laravel_logo"  /></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="30" alt="laravel_logo"  /></a>
+
 </div>
 
 ###
